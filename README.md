@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:115e59,100:0369a1&height=220&section=header&text=Gonzalo%20Mu%C3%B1iz&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:38BDF8,100:10B981&height=220&section=header&text=Gonzalo%20Mu%C3%B1iz&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1400&color=2DD4BF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+focused+on+automation;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Infrastructure+as+Code+and+cloud+operations;Systems+that+can+be+built%2C+deployed%2C+monitored+and+explained)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1400&color=38BDF8&center=true&vCenter=true&width=900&lines=DevOps+Engineer+focused+on+automation;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Infrastructure+as+Code+and+cloud+operations;Systems+that+can+be+built%2C+deployed%2C+monitored+and+explained)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzaloalfredomuniz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://alfremu-devops.vercel.app/)
-[![PlayPoll Live](https://img.shields.io/badge/PlayPoll-0891B2?style=for-the-badge&logo=gamejolt&logoColor=white)](https://playpollgaming.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://alfremu-devops.vercel.app/)
+[![PlayPoll Live](https://img.shields.io/badge/PlayPoll-38BDF8?style=for-the-badge&logo=gamejolt&logoColor=0f172a)](https://playpollgaming.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muniz.gonzalo1@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=AlfreMu&style=for-the-badge&color=14b8a6)
+![Profile Views](https://komarev.com/ghpvc/?username=AlfreMu&style=for-the-badge&color=10B981)
 
 </div>
 
@@ -107,7 +107,7 @@ I like building projects that are not just code that runs, but systems that can 
 
 [![PROFILE](https://img.shields.io/badge/GITHUB_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlfreMu)
 [![FOLLOWERS](https://img.shields.io/github/followers/AlfreMu?style=for-the-badge&logo=github&label=FOLLOWERS&color=1f2937)](https://github.com/AlfreMu?tab=followers)
-[![REPOSITORIES](https://img.shields.io/badge/PUBLIC_REPOS-20-0f766e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlfreMu?tab=repositories)
+[![REPOSITORIES](https://img.shields.io/badge/PUBLIC_REPOS-20-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlfreMu?tab=repositories)
 
 </div>
 
